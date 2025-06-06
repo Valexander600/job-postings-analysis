@@ -18,7 +18,7 @@ This project uses Microsoft Excel to explore job posting data and extract key in
 
 ## 📎 Files Included
 - 📄 [Project Summary](ProjectSummary.png) — A write-up of the key findings
-- 📊 ![Skills Chart](SkillChart.png) — Visual breakdown of top skills
+- 📊 [Skills Chart](SkillChart.png) — Visual breakdown of top skills
 - 📁 [Raw Dataset](./job_postings_data.xlsx) — The source data used
 
 ## 📈 Key Takeaways
