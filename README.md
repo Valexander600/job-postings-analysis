@@ -4,32 +4,27 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ## 📘 Project Overview
-This project analyzes job posting data using **Microsoft Excel** to uncover insights about the current job market. Using pivot tables, bar charts, and pie charts, it identifies trends in job titles, company hiring patterns, and in-demand skills.
+This project uses Microsoft Excel to explore job posting data and extract key insights about hiring trends and in-demand skills. The focus is on presenting the analysis clearly using summaries, charts, and raw data for transparency.
 
 ## 🎯 Objectives
-- Analyze job data to identify the most common job titles
-- Find out which companies are hiring the most
-- Discover the most sought-after skills in today's job market
+- Understand job market trends through data
+- Identify which skills are most frequently requested
+- Practice Excel-based analysis and presentation
 
 ## 🛠️ Tools Used
 - Microsoft Excel
-  - Pivot Tables
-  - Bar Charts
-  - Pie Charts
+- Bar/Pie Charts
+- Raw Data Structuring
 
-## 📈 Key Insights
-- The top 5 job titles are heavily concentrated in tech and data roles.
-- A handful of companies account for the majority of listings.
-- Skills like **data analysis**, **communication**, and **Excel proficiency** are in high demand.
+## 📎 Files Included
+- 📄 [Project Summary](ProjectSummary.png) — A write-up of the key findings
+- 📊 ![Skills Chart](SkillChart.png) — Visual breakdown of top skills
+- 📁 [Raw Dataset](./job_postings_data.xlsx) — The source data used
 
-## 📎 Project Highlights
-- No coding required — built entirely in Excel
-- Clean dashboard-like visuals for better presentation
-- Ideal for showcasing data storytelling with basic tools
+## 📈 Key Takeaways
+- Soft and technical skills are both in high demand
+- Excel is a powerful tool for non-code data analysis
+- Structured summaries help communicate results clearly
 
-## 🧠 Why This Matters
-Understanding hiring trends is key for job seekers and career switchers. This project reveals what roles and skills are most valued in the current job landscape, offering a data-backed roadmap for professional growth.
-
-## 🌱 Career & Learning Note
-This project was created as part of my effort to improve real-world data literacy and visualization using non-code tools like Excel. It's also aimed at helping others see the power of data even without programming.
-
+## 🌱 Why It Matters
+This project is designed to show how even simple tools like Excel can generate professional insights. It’s a great example of analysis without code — using visual communication, structure, and storytelling to present data effectively.
