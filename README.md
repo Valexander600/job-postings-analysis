@@ -31,9 +31,9 @@ This project uses Microsoft Excel to explore job posting data and extract key in
 ---
 
 ## 📎 Files Included
-- `Job_Postings_Analysis.xlsx`: The full project with summary, visualizations, and raw data
-- `raw_job_data.csv`: Dataset containing the job postings used in the analysis
-
+- 📄 ![Project Summary](ProjectSummary.png) — A write-up of the key findings
+- 📊 ![Skills Chart](SkillChart.png) — Visual breakdown of top skills
+- 📁 ![Raw Dataset](RawData.png) — The source data used
 ---
 
 ## 📈 Key Takeaways
@@ -43,10 +43,6 @@ This project uses Microsoft Excel to explore job posting data and extract key in
 
 ---
 
-## 📸 Preview
-![Excel Project Preview](https://i.imgur.com/Q1UdvHj.png)
-
----
 
 ## 👩‍💻 About Me
 **Victoria Alexander**  
